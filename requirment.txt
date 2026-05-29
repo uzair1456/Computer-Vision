@@ -1,6 +1,6 @@
-streamlit as st
-import cv2
-import numpy as np
-from ultralytics import YOLO
-import tempfile
-import os
+streamlit 
+cv2
+numpy
+ultralytics
+tempfile
+os
